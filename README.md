@@ -15,7 +15,7 @@
 
 ## 🔗 Связаться со мной
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/293399460439130112)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MamaXl)
 
 ## ✨ Проекты
 ### [News Portal Project](https://github.com/Maximer2024/HW-03)
