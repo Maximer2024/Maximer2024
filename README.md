@@ -27,7 +27,7 @@ Django-приложение для публикации новостей с уд
 
 ## 🛡️ CTF и кибербезопасность  
 - 🕵️‍♂️ Решаю задачи по безопасности и исследую уязвимости.  
-- 🎯 Первый взломанный сервер: **Titanic** на [Hack The Box](https://app.hackthebox.com/home).  
+- 🎯 Первый взломанный сервер: **Titanic** на [Hack The Box](https://www.hackthebox.com/achievement/machine/2252523/648).  
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hack-the-box&logoColor=9FEF00)  
 <p align="center">
   <img src="https://github.com/Maximer2024/Maximer2024/blob/2a30e6973201d3b4415b3649f3c05a838fd7b3d7/hackthebox_titanic_small.png" alt="Hack The Box Titanic" width="400">
